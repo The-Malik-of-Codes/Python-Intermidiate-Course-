@@ -2,4 +2,4 @@
 This is for when you are done with the python beginner course.
 
 
-I am following patrick from this this YouTube link: https://www.youtube.com/watch?v=HGOBQPFzWKo
+I am following patrick from this YouTube link: https://www.youtube.com/watch?v=HGOBQPFzWKo
